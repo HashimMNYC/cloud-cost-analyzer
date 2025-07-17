@@ -1,0 +1,17 @@
+{
+    "summary": {
+      "totalMonthly": 212.45,
+      "totalToday": 7.22
+    },
+    "dailyBreakdown": [
+      { "date": "2025-07-01", "cost": 5.40 },
+      { "date": "2025-07-02", "cost": 6.12 },
+      { "date": "2025-07-03", "cost": 7.22 },
+      { "date": "2025-07-04", "cost": 6.10 },
+      { "date": "2025-07-05", "cost": 5.33 }
+    ],
+    "anomalies": [
+      { "date": "2025-07-03", "spike": true, "note": "3x normal cost" }
+    ]
+  }
+  
